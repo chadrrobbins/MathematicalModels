@@ -2,11 +2,11 @@
 
 int main (void)
 {
-	int menu_input = 1;
+	/*int menu_input = 1;
 	int menu_input_valid = 0;
 	double slope = 0.0;
 	double function_output = 0.0;
-	double x1_coordinate = 0.0, y1_coordinate = 0.0, x2_coordinate = 0.0, y2_coordinate = 0.0; 
+	double x1_coordinate = 0.0, y1_coordinate = 0.0, x2_coordinate = 0.0, y2_coordinate = 0.0; */
 	while (menu_input != 3)
 	{
 
